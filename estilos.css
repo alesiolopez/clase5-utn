@@ -45,3 +45,29 @@ html{
 .navbar ul li a:hover{
     background: lightgreen;
 }
+
+.bodymain{
+    background: grey;
+}
+
+.destacado1{
+    background: beige;
+width: 97%;
+margin: auto;
+margin-bottom: 10px;
+}
+
+.destacado2{
+    background: beige;
+    width: 97%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.box1{
+    width: 50%;
+    position: top left;
+}
+
+.box2{
+    width: 50%;
+}
