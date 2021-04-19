@@ -30,8 +30,12 @@ html{
     color: white;
 }
 
+.logo a:hover{
+    color: lightgreen;
+}
+
 .navbar{
-    background: blue;
+    background: darkblue;
     color: white;
 }
 
@@ -52,9 +56,8 @@ html{
 }
 
 .navbar ul li a:hover{
-    background: lightgreen;
-
-    color: black;
+/*     border-bottom: 20px solid blue; */
+    color: lightgreen;
 }
 
 .bodymain{
