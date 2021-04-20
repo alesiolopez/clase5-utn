@@ -82,14 +82,15 @@ margin: 5px;
     position: relative;
     background: beige;
     width: auto;
-    height: 300px;
+    height: auto;
     margin: 10px;
 }
 .box1{
 /*     padding: 10px;*/ 
     width: 47%;
-    position: absolute;
-    margin: 5px;
+    height: 47%;
+/*     position: absolute;
+ */    margin: 5px;
     top: 0;
     left: 0;
     /* border: 2px solid blue; */
@@ -98,6 +99,7 @@ margin: 5px;
 .box2{
 /*     padding: 10px; */
     width: 47%;
+    height: 47%;
     position: absolute;
     margin: 5px;
     top: 0;
@@ -108,8 +110,9 @@ margin: 5px;
 .box3{
 /*     padding: 10px;*/
     width: 47%;
-    position: absolute;
-    margin: 5px;
+    height: 47%;
+/*     position: absolute;
+ */    margin: 5px;
     bottom: 0;
     left: 0;
     /* border: 2px solid blue; */
@@ -118,6 +121,7 @@ margin: 5px;
 .box4{
 /*     padding: 10px;
  */ width: 47%;
+    height: 47%;
     position: absolute;
     margin: 5px;
     bottom: 0;
@@ -134,8 +138,8 @@ margin: 5px;
 .aside{
     position: absolute;
     background: lightgrey;
-    height: 200px;
-    width: 100px;
+    width: 15%;
+    height: 50%;
     top: 0;
     right: 0;
     padding: 10px;
